@@ -1,3 +1,3 @@
 # uLearn
 Web Design Class Capstone Project
-## Video Walkthrough is available @ https://vimeo.com/manage/videos/420502615
+## Video Walkthrough is available @ https://player.vimeo.com/video/420502615
